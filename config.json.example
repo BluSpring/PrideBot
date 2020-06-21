@@ -1,0 +1,10 @@
+{
+    "token": "Discord bot token here",
+    "prefix": "$",
+    "lavalink": {
+        "address": "Lavalink address",
+        "password": "Lavalink password",
+        "host": "Lavalink host",
+        "port": "Lavalink port"
+    }
+}
